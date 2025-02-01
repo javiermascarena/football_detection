@@ -1,4 +1,4 @@
-football-players-detection.v12i.yolov8/
+dataset/
 runs/
 yolo11n.pt
 yolov8m.pt  
